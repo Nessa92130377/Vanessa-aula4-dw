@@ -3,8 +3,8 @@
 ##Lista
 
 - Acessar a conta no github,
-- criar um novo repository e nomear
-- copiar o link, 
+- Criar um novo repository e nomear
+- Copiar o link, 
 - Fazer dowlond do desktop Github
 - Acessar o desktop Github 
 - Acessar o visual studio Code
